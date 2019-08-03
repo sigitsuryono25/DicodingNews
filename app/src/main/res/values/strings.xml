@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Static News</string>
+    <string name="hacker">Lifehacker.com</string>
+    <string-array name="title">
+        <item>The Best iOS Walkie Talkie Apps to Use Instead of Apple\'s</item>
+        <item>Don\'t Answer Unsolicited Calls from Apple</item>
+        <item>Here\'s Everything Apple Changed with MacBooks Today</item>
+        <item>Where to Buy the Discontinued 12-Inch MacBook</item>
+        <item>Google Play Pass or Apple Arcade: Which App Subscription Service Is Better?</item>
+        <item>Listen to This July 4th Playlist If You Have Complicated Feelings About America</item>
+        <item>Why Some USB-C Headphone Dongles Don\'t Work</item>
+        <item>How to Back up Your Personal Data on iOS and Android</item>
+        <item>Update to iOS 12.4 Right Now to Block New Vulnerabilities</item>
+        <item>Use Your iPad as a Secondary Display in macOS Catalina</item>
+        <item>Uninstall These Eight Browser Extensions That Stole Data from Millions</item>
+        <item>How to Use Faster Context Menus in the Latest iOS 13 and iPadOS 13 Beta</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Apple has temporarily disabled the Apple Watch\'s Walkie-Talkie app after discovering a bug that could have
+            let others listen in on conversations. While Apple says no incidents of eavesdropping have been reported,
+            the app is disabled until the vulnerability is...
+        </item>
+        <item>Recently, you may have received an urgent-sounding voicemail from \"Apple,\" claiming your \"financial activity\" on your devices was at stake...
+        </item>
+        <item>Apple made some big announcements today regarding the fate of its entry-level laptops. The company has
+            discontinued the 12-inch MacBook (RIP), the non-Retina display MacBook Air, and made it impossible to buy a
+            MacBook Pro without a (controversial) Touch Bar...
+        </item>
+        <item>Apple made some big changes to its MacBook lineup today-including axing the super-portable 12-inch
+            MacBook, the entry-level MacBook of choice for many. While you can’t buy Apple\'s MacBook from its official
+            store anymore, you still have a few options to get yo...
+        </item>
+        <item>Subscriptions are all the rage, and it’s easy to see why. Everyone loves an a la carte model for
+            content—see Netflix, et al—where you can just pay a single reasonable monthly fee for unlimited access to a
+            body of stuff you’re interested in, be it documentarie...
+        </item>
+        <item>If you find \"Fight the Power\" more patriotic than \"God Bless the U.S.A.,\" if you think it\'s one thing to
+            love America but it\'s another to act like its obsessive boyfriend, then we have an Independence Day playlist
+            for you. We have easy barbecue jams like “Par...
+        </item>
+        <item>Ever since Apple ditched the iPhone\'s headphone jack, getting your old headphones to work with newer
+            smartphones has become a messy issue. Plenty of Android models still have 3.5mm audio jacks, but some, like
+            Samsung\'s upcoming Galaxy Note 10, have followed A...
+        </item>
+        <item>Phones break or get lost all the time, but that doesn\'t mean you have to lose your personal data when and
+            if that happens. In the video above, I go over the basics of backing up your Apple and Android devices. Read
+            more...
+        </item>
+        <item>Most of you are running iOS 12. And that\'s a good thing, because you\'re getting a speedier experience with
+            as many patched bugs and vulnerabilities as possible. It\'s especially important, too, given that Google
+            researchers recently disclosed six serious iOS v...
+        </item>
+        <item>One of the neater features you’ll find in macOS Catalina-one that definitely got my attention, at least is
+            Apple\'s new \"Sidecar\" mode. Like a tiny seat attached to a larger motorcycle, Sidecar allows you to link
+            your iPad to your Mac and use it as a secondary...
+        </item>
+        <item>A massive data leak was recently discovered by cybersecurity researcher Sam Jidali, revealing private
+            information for 45 major companies and millions of individuals. Dubbed \"DataSpii\" by Jidali and his team,
+            the leak was perpetrated by innocent-looking Chro...
+        </item>
+        <item>The fourth iOS 13 and iPadOS beta has rolled out for developers, and while there are the usual list of
+            changes and bug-fixes in Beta 4, one of the more interesting tweaks is a much more responsive Context Menu
+            that you\'ll be able to pull up on any device runn
+        </item>
+    </string-array>
+    <string-array name="link">
+        <item>https://lifehacker.com/the-best-ios-walkie-talkie-apps-to-use-instead-of-apple-1836286572</item>
+        <item>https://lifehacker.com/dont-answer-unsolicited-calls-from-apple-1836382309</item>
+        <item>https://lifehacker.com/heres-everything-apple-changed-with-macbooks-today-1836218640</item>
+        <item>https://lifehacker.com/where-to-buy-the-discontinued-12-inch-macbook-1836220069</item>
+        <item>https://lifehacker.com/google-play-pass-or-apple-arcade-which-app-subscriptio-1836890417</item>
+        <item>https://lifehacker.com/listen-to-this-july-4th-playlist-if-you-have-complicate-1836044367</item>
+        <item>https://lifehacker.com/why-some-usb-c-headphone-dongles-dont-work-1836316524</item>
+        <item>https://lifehacker.com/how-to-back-up-your-personal-data-on-ios-and-android-1836318995</item>
+        <item>https://lifehacker.com/update-to-ios-12-4-right-now-to-block-new-vulnerabiliti-1836856944</item>
+        <item>https://lifehacker.com/use-your-ipad-as-a-secondary-display-in-macos-catalina-1836053578</item>
+        <item>https://lifehacker.com/uninstall-these-eight-browser-extensions-that-stole-dat-1836539093</item>
+        <item>https://lifehacker.com/how-to-use-faster-context-menus-in-the-latest-ios-13-an-1836501619</item>
+    </string-array>
+    <string-array name="image">
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--ohcMViHR--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/kxq7cphmmgrxz9z6oggd.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--e8E_fCgS--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/yewhhkgtgv6cxo2quwuy.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--bJU-eZaK--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/haj9n7ahqrhdkji8dyoc.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--Wx7-oUpc--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/j5mwmupcbylnlvai1wzb.png
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--L69EVV9U--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/rhlgyq3trw5q77jlc4zw.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--cTWllBkd--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/gmnf8vkclt9uyipcmdzv.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--q1Ovi3Uj--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/iln6mvgcm3o7vobvozxi.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--UJHvU5wJ--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/dbpkbwxytvy3ozyl2ryd.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--dA-mihpo--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/rq6gynmki0vrk5zlvt5q.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--GgJvxzej--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/iohdho9kq9kvyvtztlgm.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--dHBECuHg--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/mia9ot2zvqfdnwflrwt7.jpg
+        </item>
+        <item>
+            https://i.kinja-img.com/gawker-media/image/upload/s--CbqbEIUE--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/g5q1ilopm6tc3m9wtqhn.jpg
+        </item>
+    </string-array>
+    <string-array name="published">
+        <item>2019-07-11T22:00:00Z</item>
+        <item>2019-07-15T21:00:00Z</item>
+        <item>2019-07-09T19:10:00Z</item>
+        <item>2019-07-09T20:30:00Z</item>
+        <item>2019-08-02T14:16:00Z</item>
+        <item>2019-07-03T14:00:00Z</item>
+        <item>2019-07-12T18:15:00Z</item>
+        <item>2019-07-15T17:30:00Z</item>
+        <item>2019-07-31T19:15:00Z</item>
+        <item>2019-07-04T14:00:00Z</item>
+        <item>2019-07-19T20:15:00Z</item>
+        <item>2019-07-18T21:25:00Z</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>Apple has temporarily disabled the Apple Watchs Walkie-Talkie app after discovering a bug that could have
+            let others listen in on conversations. While Apple says no incidents of eavesdropping have been reported,
+            the app is disabled until the vulnerability is...
+        </item>
+        <item>Recently, you may have received an urgent-sounding voicemail from Apple, claiming your financial activity
+            on your devices was at stake.\r\nDont worryyour Apple accounts are fine and the companyisnt calling users to
+            personally warn them about supposed suspicious...
+        </item>
+        <item>Apple made some big announcements today regarding the fate of its entry-level laptops. The company has
+            discontinued the 12-inch MacBook (RIP), the non-Retina display MacBook Air, and made it impossible to buy a
+            MacBook Pro without a (controversial) Touch Bar...
+        </item>
+        <item>Apple made some big changes to its MacBook lineup todayincluding axing the super-portable 12-inch MacBook,
+            the entry-level MacBook of choice for many. While you cant buy Apples MacBook from its official store
+            anymore, you still have a few options to get your...
+        </item>
+        <item>Subscriptions are all the rage, and its easy to see why. Everyone loves an a la carte model for contentsee
+            Netflix, et alwhere you can just pay a single reasonable monthly fee for unlimited access to a body of stuff
+            youre interested in, be it documentaries, 9...
+        </item>
+        <item>If you find Fight the Power more patriotic than God Bless the U.S.A., if you think its one thing to love
+            America but its another to act like its obsessive boyfriend, then we have an Independence Day playlist for
+            you. We have easy barbecue jams like Party in t...
+        </item>
+        <item>Ever since Apple ditched the iPhones headphone jack, getting your old headphones to work with newer
+            smartphones has become a messy issue. Plenty of Android models still have 3.5mm audio jacks, but some, like
+            Samsungs upcoming Galaxy Note 10, have followed App...
+        </item>
+        <item>Phones break or get lost all the time, but that doesnt mean you have to lose your personal data when and
+            if that happens. In the video above, I go over the basics of backing up your Apple and Android
+            devices.\r\nQuick Fix is a new video series where I tackle yo...
+        </item>
+        <item>Most of you are running iOS 12. And thats a good thing, because youre getting a speedier experience with
+            as many patched bugs and vulnerabilities as possible. Its especially important, too, given that Google
+            researchers recently disclosed six serious iOS vuln...
+        </item>
+        <item>One of the neater features youll find in macOS Catalinaone that definitely got my attention, at leastis
+            Apples new Sidecar mode. Like a tiny seat attached to a larger motorcycle, Sidecar allows you to link your
+            iPad to your Mac and use it as a secondary displ...
+        </item>
+        <item>A massive data leak was recently discovered by cybersecurity researcher Sam Jidali, revealing private
+            information for 45 major companies and millions of individuals. Dubbed DataSpii by Jidali and his team, the
+            leak was perpetrated by innocent-looking Chrome a...
+        </item>
+        <item>The fourth iOS 13 and iPadOS beta has rolled out for developers, and while there are the usual list of
+            changes and bug-fixes in Beta 4, one of the more interesting tweaks is a much more responsive Context Menu
+            that youll be able to pull up on any device runni...
+        </item>
+    </string-array>
+</resources>
